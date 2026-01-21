@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Recipe App</string>
-    <string name="welcome_message">My Recipe Book</string>
-    <string name="add_recipe">Add New Recipe</string>
-    <string name="view_recipes">View Recipes</string>
-    <string name="add_recipe_description">Create a new recipe</string>
-    <string name="view_recipes_description">Browse your saved recipes</string>
-</resources>
